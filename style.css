@@ -1,0 +1,123 @@
+
+.nav{
+    
+    position: relative;
+    text-align: center;
+   
+}
+.links{
+    background-image: url(/first\ \(1\).jpg);
+}
+.all{
+    list-style-type: none;
+    
+    
+    
+    
+}
+
+.offers{
+padding-left: 0 20px;
+}
+.center{
+    /* text-align: center; */
+    padding: 10px;
+    /* background-image: url("/first\ \(1\).jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 20%;
+    
+}
+.explore{
+  list-style-type: none;  
+  margin-top: 3%;
+  padding: 1%;
+
+}
+.scan{
+  margin-left: 20%; 
+}
+.classic{
+    margin-left: 20%;
+
+}
+.modern{
+    
+width: 100px;
+height: 10%;
+    
+    
+}
+.images{
+    display: flex;
+    
+}
+.image1{
+ 
+  width: 250px;
+  height: 250px;
+  margin-right: 8%;
+}
+.image2{
+    width: 250px;
+    height: 250px;
+    margin-left:0% ;
+    
+}
+.image3{
+    width: 250px;
+    height: 250px;
+    margin-left: 10%;
+}
+.laptop{
+    width: 250px;
+    height: 250px;
+    margin-right: 10%;
+
+}
+.wall{
+    width: 250px;
+    height: 250px;
+    margin-right: 10%;
+
+}
+.chair{
+    width: 250px;
+    height: 250px;
+    margin-right: 10% ;
+
+}
+.image5{
+    width: 250px;
+    height: 250px;
+}
+.design{
+    margin-bottom: 3%;
+    padding: 1%;
+    display: flex;
+
+}
+.table{
+margin-left: 20%;
+}
+.icon{
+    display: flex;
+    list-style-type: none;
+}
+.insta{
+    width: 2%;
+    height: 2%;
+}
+.pint{
+    width: 2%;
+    height: 2%;
+}
+.fb{
+    width: 2%;
+    height: 2%;
+}
+.footer{
+    list-style-type: none;
+    display: flex;
+}
