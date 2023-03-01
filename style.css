@@ -7,6 +7,13 @@
 }
 .links{
     background-image: url(/first\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:1600px;
+    height:70vh;
+    background-position: center;
+
+
 }
 .all{
     list-style-type: none;
@@ -15,20 +22,19 @@
     
     
 }
+.news{
+    background-color: #ffe5d6;
+    height: 300px;
+}
 
 .offers{
 padding-left: 0 20px;
 }
-.center{
-    /* text-align: center; */
-    padding: 10px;
-    /* background-image: url("/first\ \(1\).jpg"); */
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 30%;
-    height: 20%;
+
     
-}
+    
+    
+
 .explore{
   list-style-type: none;  
   margin-top: 3%;
@@ -89,25 +95,47 @@ height: 10%;
 
 }
 .image5{
-    width: 250px;
-    height: 250px;
+    width: 400px;
+    height: 450px;
+    margin-left: 70%;
 }
-.design{
-    margin-bottom: 3%;
+.newsletter{
+   text-align: center; 
+   padding-bottom: 50px;
+}
+.designs{
+    
+    background-color: black; 
     padding: 1%;
-    display: flex;
+
+
 
 }
+.popular{
+   margin-right: 80%;
+   color: white;
+}
+.yellow{
+    color: yellow;
+}
+.oak{
+    margin-right: 20%;
+    color: white;
+}
+.mustard{
+    margin-left: 40%;
+    color: white;
+}
 .table{
-margin-left: 20%;
+margin-left: 60%;
 }
 .icon{
-    display: flex;
-    list-style-type: none;
+    
+    
 }
 .insta{
-    width: 2%;
-    height: 2%;
+    width: 5%;
+    height: 5%;
 }
 .pint{
     width: 2%;
@@ -120,4 +148,66 @@ margin-left: 20%;
 .footer{
     list-style-type: none;
     display: flex;
+}
+/* .newsletter{
+    background-color: bisque;
+ }
+     
+.round{
+    background-color: #c23030;
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: large ;
+    /* color: #0d1585; */
+/* } */
+.round{
+    display: flex;
+    background-color: #690c0c;
+}
+.image5{
+    float: right;
+    margin-top: 3%;
+    width: 400px;
+    height: 400px;
+    margin-right: 40%;
+}
+
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    background-color: black;
+}
+
+.icons{
+    margin-left: -20px;
+}
+.payment{
+    margin-right: 0px;
+    color: white;
+}
+.faq{
+    color: white;
+}
+.cozy{
+    color: white;
+    margin-left: 150%;
+}
+.hom{
+    color: yellowgreen;
+    margin-left: 150%;
+}
+
+
+.inquires{
+    color: white;
+    
+}
+.com{
+    color: white;
+}
+.icon{
+    color: white;
+    margin-left: 80%;
 }
